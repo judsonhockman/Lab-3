@@ -1,0 +1,17 @@
+h3  {
+    text-transform: uppercase;
+}
+.friend {
+    background-color: maroon;
+}
+body {
+    background-color: darkgrey;
+}
+h1 {
+    color: #613DD7;
+}
+#sing-btn {
+    height: 40px;
+    width: 50px;
+    background-color: #009933;
+}
